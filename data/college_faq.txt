@@ -1,0 +1,281 @@
+===========================================
+ APEX INSTITUTE OF TECHNOLOGY & MANAGEMENT
+       Generic Indian Engineering College
+          Comprehensive FAQ Knowledge Base
+===========================================
+
+-----------------------------------------------------------
+SECTION 1: ABOUT THE COLLEGE
+-----------------------------------------------------------
+
+Q: What is Apex Institute of Technology & Management?
+A: Apex Institute of Technology & Management (AITM) is a premier engineering and management institution established in 2005. It is affiliated with a State Technical University and approved by AICTE (All India Council for Technical Education). The campus spans 50 acres and is located on the outskirts of the city with excellent transport connectivity.
+
+Q: Is the college NAAC accredited?
+A: Yes, AITM has been accredited by NAAC (National Assessment and Accreditation Council) with a B++ grade. The college also has NBA accreditation for its Computer Science, Electronics, and Mechanical Engineering programs.
+
+Q: What is the college's ranking?
+A: AITM is ranked among the top 200 engineering colleges in India by NIRF (National Institutional Ranking Framework). It holds a state-level ranking of top 10 in the private engineering college category.
+
+Q: What are the college's working hours and holidays?
+A: The college operates Monday to Saturday from 8:30 AM to 5:00 PM. National holidays, Diwali, Holi, and other major festivals are observed. The academic calendar has two semesters: July–November (Odd Semester) and December–April (Even Semester).
+
+-----------------------------------------------------------
+SECTION 2: UNDERGRADUATE PROGRAMS (B.TECH)
+-----------------------------------------------------------
+
+Q: What B.Tech programs are offered?
+A: AITM offers B.Tech (Bachelor of Technology) in the following branches:
+   - Computer Science and Engineering (CSE)
+   - Computer Science and Engineering (AI & ML specialization)
+   - Computer Science and Engineering (Data Science specialization)
+   - Electronics and Communication Engineering (ECE)
+   - Mechanical Engineering (ME)
+   - Civil Engineering (CE)
+   - Electrical and Electronics Engineering (EEE)
+   - Information Technology (IT)
+
+Q: What is the duration of B.Tech?
+A: The B.Tech program is a 4-year (8 semesters) full-time program.
+
+Q: What is the intake capacity for B.Tech CSE?
+A: The sanctioned intake for B.Tech CSE is 120 seats. B.Tech CSE (AI&ML) and CSE (Data Science) have 60 seats each.
+
+Q: What is the eligibility for B.Tech admission?
+A: Candidates must have passed 10+2 (Class XII) from a recognized board with Physics, Chemistry, and Mathematics (PCM) as core subjects, with a minimum of 45% aggregate marks (40% for SC/ST candidates). A valid JEE Main score or State Entrance Exam (e.g., MHT-CET, AP EAMCET, KCET, WBJEE) is required.
+
+Q: How do I apply for B.Tech admission?
+A: Applications can be submitted online at www.aitm.edu.in/admissions. You need to upload Class X and XII marksheets, entrance exam scorecard, passport-size photo, and ID proof. Counseling is conducted either through centralized state counseling or direct admission based on merit.
+
+Q: What documents are required at the time of admission?
+A: Required documents include:
+   1. Class X marksheet and certificate
+   2. Class XII marksheet and certificate
+   3. Entrance exam scorecard (JEE/State exam)
+   4. Category certificate (SC/ST/OBC) if applicable
+   5. Domicile/Residence certificate
+   6. Migration/Transfer certificate from previous institution
+   7. Passport-size photographs (6 copies)
+   8. Aadhaar card (original and photocopy)
+   9. Medical fitness certificate
+
+-----------------------------------------------------------
+SECTION 3: POSTGRADUATE PROGRAMS (M.TECH & MBA)
+-----------------------------------------------------------
+
+Q: What M.Tech programs are offered?
+A: AITM offers M.Tech (Master of Technology) in:
+   - Computer Science and Engineering
+   - VLSI Design (Electronics)
+   - Machine Learning and Data Science
+   - Structural Engineering (Civil)
+   Duration: 2 years (4 semesters)
+
+Q: What is the eligibility for M.Tech admission?
+A: Candidates must hold a B.Tech/B.E. degree in a relevant branch with minimum 55% marks (50% for SC/ST). A valid GATE score is preferred for scholarship benefits. Admission without GATE is also available based on institute-level entrance test.
+
+Q: What MBA programs are offered?
+A: AITM's School of Management offers an MBA (Master of Business Administration) with specializations in:
+   - Marketing Management
+   - Finance and Accounting
+   - Human Resource Management
+   - Operations Management
+   - Business Analytics
+   Duration: 2 years (4 semesters), Intake: 60 seats
+
+Q: What is the eligibility for MBA admission?
+A: Candidates must have a Bachelor's degree in any discipline with minimum 50% marks. A valid score in CAT / MAT / CMAT / ATMA / XAT / GMAT is required. Group Discussion (GD) and Personal Interview (PI) are also conducted by the institute.
+
+-----------------------------------------------------------
+SECTION 4: FEE STRUCTURE
+-----------------------------------------------------------
+
+Q: What is the fee for B.Tech programs?
+A: The approximate annual fee for B.Tech programs is:
+   - B.Tech CSE / CSE (AI&ML) / CSE (Data Science) / IT: ₹1,20,000 per year
+   - B.Tech ECE / EEE: ₹1,10,000 per year
+   - B.Tech Mechanical / Civil: ₹1,00,000 per year
+   Fees include tuition, development, and examination fees. Hostel and mess are charged separately.
+
+Q: What is the fee for M.Tech programs?
+A: The annual fee for M.Tech programs is approximately ₹85,000 per year.
+
+Q: What is the fee for MBA?
+A: The annual fee for the MBA program is approximately ₹1,40,000 per year.
+
+Q: Are there any scholarships available?
+A: Yes, the following scholarships are available:
+   1. Central Government Scholarships: NSP (National Scholarship Portal) for SC/ST/OBC/Minority students
+   2. State Government Scholarships: Based on domicile and category
+   3. Merit Scholarship: Top 5 rankers in each batch receive a 50% tuition fee waiver
+   4. AICTE Pragati Scholarship for girl students (₹50,000/year)
+   5. AICTE Saksham Scholarship for differently-abled students
+   6. Institute Scholarship: For students with GATE rank under 1000
+
+Q: What is the fee payment process?
+A: Fees can be paid online via the student portal (portal.aitm.edu.in) using Net Banking, UPI, or Debit/Credit card. Fees can also be paid at the college accounts section via DD or NEFT. Fee receipts are generated instantly after payment.
+
+-----------------------------------------------------------
+SECTION 5: HOSTEL & MESS FACILITIES
+-----------------------------------------------------------
+
+Q: Is hostel facility available?
+A: Yes, AITM has separate hostel facilities for boys and girls. Both hostels are located within the campus.
+   - Boys Hostel: 4 blocks, capacity of 800 students
+   - Girls Hostel: 2 blocks, capacity of 400 students
+
+Q: What are the hostel fee details?
+A: Hostel fees (per year):
+   - Single occupancy room: ₹60,000 per year
+   - Double occupancy room: ₹45,000 per year
+   - Triple occupancy room: ₹35,000 per year
+   (These fees include room rent and basic amenities. Mess charges are separate.)
+
+Q: What are the mess charges?
+A: Mess charges are approximately ₹3,000 per month (₹36,000 per year) for 3 meals a day. The mess serves vegetarian and non-vegetarian food. A monthly menu is published on the student portal.
+
+Q: What facilities are available in the hostel?
+A: Hostel facilities include:
+   - 24/7 Wi-Fi connectivity
+   - RO drinking water
+   - Laundry facility
+   - Common room with TV
+   - Indoor games (table tennis, carrom, chess)
+   - Reading room
+   - Generator backup for power cuts
+   - CCTV surveillance
+   - Warden available 24/7
+   - Medical room with first-aid
+
+Q: What is the hostel curfew timing?
+A: Hostel curfew is 9:30 PM for all students. Late entry requires permission from the warden and a written request. Outpass for overnight stays requires parental consent.
+
+-----------------------------------------------------------
+SECTION 6: PLACEMENT CELL
+-----------------------------------------------------------
+
+Q: How is the placement record of AITM?
+A: AITM has an excellent placement record:
+   - 2023–24: 92% eligible students placed
+   - 2022–23: 88% eligible students placed
+   - Highest package: ₹44 LPA (CSE branch, placed at a top MNC)
+   - Average package: ₹6.8 LPA
+   - Median package: ₹5.2 LPA
+
+Q: Which companies recruit from AITM?
+A: Top recruiters include:
+   - IT Companies: TCS, Infosys, Wipro, HCL, Cognizant, Capgemini, Accenture, IBM, Tech Mahindra, L&T Infotech
+   - Product Companies: Amazon, Microsoft, Adobe, Flipkart, Paytm, Zomato, Freshworks
+   - Core Companies: L&T, TATA Motors, Bosch, Siemens, BHEL, NTPC
+   - Startups: Various funded startups offering roles in ML, Data Science, and Full Stack Development
+
+Q: When does campus placement start?
+A: Campus placement activities begin in July of the 4th year (7th semester). Pre-placement training (aptitude, coding, GD/PI) starts in the 6th semester itself.
+
+Q: What training does the college provide for placements?
+A: The Training and Placement (T&P) cell provides:
+   - Aptitude and logical reasoning training
+   - Technical interview preparation
+   - Communication skills and soft skills training
+   - Mock interviews and GD sessions
+   - Coding bootcamps (C++, Python, Java, DSA)
+   - Resume building workshops
+   - Company-specific preparation sessions
+
+Q: Is there an option for higher studies after B.Tech?
+A: Yes, students interested in higher studies can pursue M.Tech (GATE), MBA, MS abroad (GRE/IELTS/TOEFL), or MCA. The T&P cell provides guidance for all higher study options.
+
+-----------------------------------------------------------
+SECTION 7: EXAMINATION SYSTEM
+-----------------------------------------------------------
+
+Q: What is the examination pattern at AITM?
+A: The examination pattern consists of:
+   - Internal Assessment (CIA): 40 marks
+     * Two mid-semester tests (15 marks each)
+     * Assignments and attendance (10 marks)
+   - End Semester Examination (ESE): 60 marks
+   Total: 100 marks per subject
+
+Q: When are the semester examinations conducted?
+A: End Semester Examinations (ESE) are conducted:
+   - Odd Semester (1st, 3rd, 5th, 7th): November–December
+   - Even Semester (2nd, 4th, 6th, 8th): April–May
+
+Q: How do I access my exam results?
+A: Results are published on the university website and the student portal (portal.aitm.edu.in). Students receive SMS and email notifications when results are declared.
+
+Q: What is the minimum attendance requirement?
+A: Students must maintain a minimum of 75% attendance in each subject to be eligible to appear in the end semester examination. Students with attendance between 65–75% may be condoned with medical or valid reasons. Below 65% attendance leads to detention.
+
+Q: What is the process for re-evaluation of answer sheets?
+A: Students can apply for re-totalling or re-evaluation of answer sheets within 15 days of result declaration. The application must be submitted online along with a fee of ₹500 per subject for re-totalling and ₹1,500 per subject for re-evaluation.
+
+Q: What happens if a student fails in a subject?
+A: Students who fail in a subject have the following options:
+   - KT (Keep Terms) exams: Conducted along with regular exams in the next semester
+   - Supplementary exams: For final year students only
+   - A student with more than 4 backlogs cannot proceed to the next year
+
+-----------------------------------------------------------
+SECTION 8: LIBRARY & LEARNING RESOURCES
+-----------------------------------------------------------
+
+Q: What library facilities are available?
+A: The central library at AITM contains:
+   - Over 50,000 books across all disciplines
+   - More than 200 national and international journals
+   - Digital library with access to IEEE Xplore, Springer, Elsevier, NPTEL, and DELNET
+   - E-book and e-journal subscriptions
+   - Separate reading halls for UG and PG students
+   - Library timing: 8:00 AM to 8:00 PM (Mon–Sat), 10:00 AM to 5:00 PM (Sun)
+
+Q: How many books can a student borrow?
+A: UG students can borrow up to 3 books for 14 days. PG students can borrow up to 5 books for 21 days. Reference books cannot be borrowed but can be read in the library. Late return is charged ₹2 per day per book.
+
+-----------------------------------------------------------
+SECTION 9: INFRASTRUCTURE & LABS
+-----------------------------------------------------------
+
+Q: What computing facilities are available?
+A: AITM has:
+   - 6 computer labs with 300+ high-performance computers
+   - 1 Gbps internet connectivity (leased line)
+   - 24/7 Wi-Fi across the campus
+   - Dedicated labs for AI/ML, Data Science, IoT, Embedded Systems, Networks, and VLSI
+   - NVIDIA GPU workstations in the AI/ML lab
+
+Q: What sports facilities are available?
+A: Sports facilities include:
+   - Cricket ground
+   - Football and volleyball courts
+   - Basketball court
+   - Badminton courts (covered)
+   - Table tennis room
+   - Gymnasium with modern equipment
+   - Swimming pool (seasonal)
+
+-----------------------------------------------------------
+SECTION 10: CONTACT & ADMINISTRATION
+-----------------------------------------------------------
+
+Q: What is the college contact information?
+A: 
+   Address: Apex Institute of Technology & Management, NH-48, Tech Park Road, City – 560001
+   Phone: +91-80-12345678
+   Email: admissions@aitm.edu.in | info@aitm.edu.in
+   Website: www.aitm.edu.in
+   Admissions Helpline: 1800-XXX-XXXX (Toll Free, Mon–Sat, 9 AM–5 PM)
+
+Q: Who is the principal of the college?
+A: The Principal of AITM is Dr. Rajesh Kumar Sharma, Ph.D. (IIT Delhi), with over 25 years of academic and research experience. He can be reached at principal@aitm.edu.in.
+
+Q: What anti-ragging measures are in place?
+A: AITM has a strict zero-tolerance policy against ragging. An Anti-Ragging Committee is active 24/7. Students can report ragging on the national anti-ragging helpline: 1800-180-5522 or email antiragging@aitm.edu.in. Disciplinary action includes suspension and expulsion.
+
+Q: Is there a student grievance redressal mechanism?
+A: Yes, students can raise grievances through:
+   - Online grievance portal: grievance.aitm.edu.in
+   - Student Grievance Cell (SGC) – meets every Monday at 11 AM
+   - Ombudsman for escalated complaints
+   All grievances are resolved within 15 working days.
